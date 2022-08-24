@@ -1,5 +1,4 @@
 # Notion-SQL-Learning
-Notion SQL Learning
 
 ## Questions? Problems? Suggestions?
 
