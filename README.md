@@ -2,7 +2,7 @@
 
 ## What is Notion SQL Learning?
 <p align="center">
-  <img width="30%" height="30%" src="https://ph-files.imgix.net/db7759ad-cb2b-4389-84d5-a14c2f197608.gif?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=2">
+  <img width="30%" height="30%" src="https://github.com/mergisi/Notion-SQL-Learning/blob/main/logo.png?raw=true">
 </p>
 Notion SQL Learning is designed to be simple and easy to follow so that you can start learning SQL quickly. It is divided into 20+ topics so that you can learn SQL in bite-sized chunks.
 
